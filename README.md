@@ -1,4 +1,5 @@
 # Маленькая книга о Lua
+![image](https://user-images.githubusercontent.com/3950155/189185483-e1a5fe4d-dc95-4cca-94d5-3976abc46ec3.png)
 
 Карлу Сегуину - с благодарностью за "маленькую библиотеку".
 
